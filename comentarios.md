@@ -7,3 +7,5 @@ No seu arquivo .Rmd eu só dei uma ajeitada no cabeçalho para que o html gerado
 formatadinhos.
 
 Abração!
+
+Prof. Neylson Crepalde
