@@ -1,21 +1,21 @@
 ---
-title: "Projeto Integrador-ExercÌcio1"
-```{r}
-Nome: Ester_Pereira_Martins
-```
-```{r}
-# 1 - Execute cada um desses comandos no *R* e exlique o cada um faz num coment·rio.
+title: "Projeto Integrador-Exerc√≠cio1"
+author: "Ester_Pereira_Martins"
+---
 
-7 * 9  #multiplicaÁ„o
+```{r}
+# 1 - Execute cada um desses comandos no *R* e exlique o cada um faz num coment√°rio.
+
+7 * 9  #multiplica√ß√£o
 4 + 4  #soma
-x <- 3 - 10  #subtraÁ„o de 3 - 10 e atribuiÁ„o do valor para o objeto x
+x <- 3 - 10  #subtra√ß√£o de 3 - 10 e atribui√ß√£o do valor para o objeto x
 x #valor final -7
-y = x + 8  #soma de x + 8 e atribuiÁ„o do valor para o objeto y
-20 %% 3   #resto da divis„o
+y = x + 8  #soma de x + 8 e atribui√ß√£o do valor para o objeto y
+20 %% 3   #resto da divis√£o
 sqrt(256)  #raiz quadrada
-45^2  #potÍncia
-968^(1/3)  #raiz c˙bica
-exp(6)/log(156)  #divis„o do resultado de uma exponenciaÁ„o e um logarÌtimo
+45^2  #pot√™ncia
+968^(1/3)  #raiz c√∫bica
+exp(6)/log(156)  #divis√£o do resultado de uma exponencia√ß√£o e um logar√≠timo
 
 ###################################
 ```
@@ -42,7 +42,7 @@ lenght(idades)
 
 ```
 ```{r}
-#4 - Use um comando para juntar esses dois vetores como colunas e criar um data.frame. Verifique as dimensıes do seu bando de dados.
+#4 - Use um comando para juntar esses dois vetores como colunas e criar um data.frame. Verifique as dimens√µes do seu bando de dados.
 
 casa <- data.frame(nomes, idades)
 casa
